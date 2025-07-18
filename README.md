@@ -2,7 +2,7 @@
 
 The Maple files give the formula from the application of the paper. 
 
-These files are modified versions of files which goes along with [Cole (2020)](#ref-cole2020).
+These files are modified versions of files which go along with [Cole (2020)](#ref-cole2020).
 
 ## References
 
